@@ -11,6 +11,7 @@ df = pd.read_csv(file_path)
 
 # Initialize Dash app
 app = dash.Dash(__name__)
+server = app.server  # Expose server for deployment
 
 # Create map figure
 map_fig = px.scatter_mapbox(
