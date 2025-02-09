@@ -87,7 +87,7 @@ This project is licensed under the **MIT License** – feel free to use, modify,
 ## 📧 Contact
 For questions or collaboration, reach out via:
 - GitHub Issues: [Open an issue](https://github.com/ghanagokul/Tree_Dashboard/issues)
-- Email: [YourEmail@example.com](mailto:ghanagokul@gmail.com)
+- Email: [ghanagokul@gmail.com](mailto:ghanagokul@gmail.com)
 
 
 
